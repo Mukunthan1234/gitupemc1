@@ -1,2 +1,3 @@
 created  a txt file.
 changed to hi.
+welcome to gitup
